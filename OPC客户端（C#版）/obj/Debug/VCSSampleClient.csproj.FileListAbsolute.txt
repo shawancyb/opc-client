@@ -1,0 +1,46 @@
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\obj\Debug\VCSSampleClient.exe
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\obj\Debug\VCSSampleClient.pdb
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\bin\Debug\VCSSampleClient.exe
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\bin\Debug\VCSSampleClient.pdb
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\bin\Debug\OpcDaNet.xml
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\obj\Debug\ResolveAssemblyReference.cache
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\obj\Debug\VCSSampleClient.ItemRW.resources
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\obj\Debug\VCSSampleClient.SampleClient.resources
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\研究生\项目\OPC资料\下载OPCClient\OPC客户端（C#版）\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\OPC客户端（C#版）\bin\Debug\VCSSampleClient.exe.config
+E:\OPC客户端（C#版）\obj\Debug\VCSSampleClient.exe
+E:\OPC客户端（C#版）\obj\Debug\VCSSampleClient.pdb
+E:\OPC客户端（C#版）\bin\Debug\VCSSampleClient.exe
+E:\OPC客户端（C#版）\bin\Debug\VCSSampleClient.pdb
+E:\OPC客户端（C#版）\bin\Debug\OpcDaNet.xml
+E:\OPC客户端（C#版）\obj\Debug\ResolveAssemblyReference.cache
+E:\OPC客户端（C#版）\obj\Debug\VCSSampleClient.ItemRW.resources
+E:\OPC客户端（C#版）\obj\Debug\VCSSampleClient.SampleClient.resources
+E:\OPC客户端（C#版）\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\OPC客户端（C#版）\obj\Debug\GenerateResource.read.1.tlog
+E:\OPC客户端（C#版）\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\OPC客户端（C#版）\obj\Debug\GenerateResource.write.1.tlog
+E:\毕设全部\OPC客户端（C#版）\bin\Debug\VCSSampleClient.exe.config
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\VCSSampleClient.exe
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\VCSSampleClient.pdb
+E:\毕设全部\OPC客户端（C#版）\bin\Debug\VCSSampleClient.exe
+E:\毕设全部\OPC客户端（C#版）\bin\Debug\VCSSampleClient.pdb
+E:\毕设全部\OPC客户端（C#版）\bin\Debug\OpcDaNet.xml
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\VCSSampleClient.ItemRW.resources
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\VCSSampleClient.SampleClient.resources
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\GenerateResource.read.1.tlog
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\毕设全部\OPC客户端（C#版）\obj\Debug\GenerateResource.write.1.tlog
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\bin\Debug\VCSSampleClient.exe.config
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\obj\Debug\VCSSampleClient.exe
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\obj\Debug\VCSSampleClient.pdb
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\bin\Debug\VCSSampleClient.exe
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\bin\Debug\VCSSampleClient.pdb
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\bin\Debug\OpcDaNet.xml
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\obj\Debug\VCSSampleClient.csprojResolveAssemblyReference.cache
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\obj\Debug\VCSSampleClient.ItemRW.resources
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\obj\Debug\VCSSampleClient.SampleClient.resources
+D:\visual studio 2012 Projects\OpcProject\OPC客户端（C#版）\obj\Debug\VCSSampleClient.csproj.GenerateResource.Cache

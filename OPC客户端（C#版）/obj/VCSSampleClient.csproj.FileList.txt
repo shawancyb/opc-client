@@ -1,0 +1,10 @@
+bin\Debug\VCSSampleClient.exe
+bin\Debug\VCSSampleClient.pdb
+bin\Debug\OpcDaNet.dll
+bin\Debug\OpcDaNet.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VCSSampleClient.ItemRW.resources
+obj\Debug\VCSSampleClient.SampleClient.resources
+obj\Debug\VCSSampleClient.csproj.GenerateResource.Cache
+obj\Debug\VCSSampleClient.exe
+obj\Debug\VCSSampleClient.pdb
